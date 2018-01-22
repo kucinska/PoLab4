@@ -1,0 +1,16 @@
+﻿„Lab4.exe” (Win32): załadowano „C:\Users\Klara\Desktop\Lab4\Debug\Lab4.exe”. Symbole zostały załadowane.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\ntdll.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel32.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\KernelBase.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Program Files\AVAST Software\Avast\aswhookx.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcp140d.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\vcruntime140d.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\ucrtbased.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel.appcore.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcrt.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\rpcrt4.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\sspicli.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\cryptbase.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\bcryptprimitives.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+„Lab4.exe” (Win32): załadowano „C:\Windows\SysWOW64\sechost.dll”. Nie można odnaleźć lub otworzyć pliku PDB.
+Program „[1796] Lab4.exe” zakończył działanie z kodem 0 (0x0).
